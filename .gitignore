@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+
+# PyInstaller/build artifacts
+build/
+dist/
+*.spec.log
+
+# IDE/editor state
+.vscode/
+.cursor/
+
+# Local render/export scratch directories
+docx_render_stage*/
+render_gost_sources*/
+
+# Office temporary files
+~$*
+
+# Local archives/backups
+архив/
+
+# OS files
+.DS_Store
+Thumbs.db
